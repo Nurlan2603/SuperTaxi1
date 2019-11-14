@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003496539172",
+    "firebase_url": "https://supertaxi-2a1a1.firebaseio.com",
+    "project_id": "supertaxi-2a1a1",
+    "storage_bucket": "supertaxi-2a1a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003496539172:android:f6a6fac70c29b0a8c144b1",
+        "android_client_info": {
+          "package_name": "com.example.supertaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003496539172-897d6tm32p4reb3p7hbq7ogj2jldl8i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supertaxi",
+            "certificate_hash": "45b8d4dc1503b4160c731e7696050a2f474150de"
+          }
+        },
+        {
+          "client_id": "1003496539172-e034bv17q66jq7uopk9vkpm7mtk0lt3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkn9ajsqOM7HZw-gMI12F-2zQ35tQSeCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003496539172-e034bv17q66jq7uopk9vkpm7mtk0lt3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
